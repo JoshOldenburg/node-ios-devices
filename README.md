@@ -17,5 +17,12 @@ printf("%s\n", result);
 // result is a typical C string that can be passed to [NSString stringWithUTF8String:result];
 ```
 
+## Devices
+![iPhone/iPod touch models](https://cloud.githubusercontent.com/assets/291371/3639182/e89de91a-1070-11e4-862e-fa46161e3db7.png)
+
+![iPad/iPad Mini models](https://cloud.githubusercontent.com/assets/291371/3639183/ec126d50-1070-11e4-876f-e3cd692756ac.png)
+
+These images were created by using the Chrome developer tools to remove all the rows except these on the Wiki page, and then screenshotting it.
+
 ## License
 Do what you want, this is all available on the aforementioned Wiki page. Copyright 2014 Josh Oldenburg, released under the MIT license.
