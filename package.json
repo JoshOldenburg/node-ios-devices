@@ -1,5 +1,5 @@
 {
-  "name": "node-ios-devices",
+  "name": "ios-devices",
   "version": "1.0.0",
   "description": "A JSON object mapping iOS device model codes (e.g. iPad2,1) to their respective marketing names (e.g. iPad 2).",
   "main": "index.json",
