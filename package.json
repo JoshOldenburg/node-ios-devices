@@ -1,0 +1,21 @@
+{
+  "name": "node-ios-devices",
+  "version": "1.0.0",
+  "description": "A JSON object mapping iOS device model codes (e.g. iPad2,1) to their respective marketing names (e.g. iPad 2).",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoshTheGeek/node-ios-devices.git"
+  },
+  "keywords": [
+    "ios",
+    "idevice",
+    "apple"
+  ],
+  "author": "Josh Oldenburg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoshTheGeek/node-ios-devices/issues"
+  },
+  "homepage": "https://github.com/JoshTheGeek/node-ios-devices"
+}
