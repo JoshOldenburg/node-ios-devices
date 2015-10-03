@@ -25,4 +25,4 @@ printf("%s\n", result);
 These images were created by using the Chrome developer tools to remove all the rows except these on the Wiki page, and then screenshotting it.
 
 ## License
-Do what you want, this is all available on the aforementioned Wiki page. Copyright 2014 Josh Oldenburg, released under the MIT license.
+This is released into the public domain under the [Unlicense](http://unlicense.org/). This information is publicly available.
