@@ -14,6 +14,8 @@
 	"iPhone6,2": "iPhone 5S",
 	"iPhone7,2": "iPhone 6",
 	"iPhone7,1": "iPhone 6 Plus",
+	"iPhone8,2": "iPhone 6s",
+	"iPhone8,1": "iPhone 6s Plus",
 
 	"iPod1,1": "iPod (1st generation)",
 	"iPod2,1": "iPod (2nd generation)",
@@ -22,6 +24,7 @@
 	"iPod5,1": "iPod (5th generation)",
 
 	"iPad1,1": "iPad (1st generation)",
+	"iPad1,2": "iPad (1st generation)",
 	"iPad2,1": "iPad 2",
 	"iPad2,2": "iPad 2",
 	"iPad2,3": "iPad 2",
